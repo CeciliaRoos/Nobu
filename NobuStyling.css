@@ -1,0 +1,187 @@
+/* Nobu.css by Cecilia */
+
+body {
+  background-color: #f3f3f0;
+  color: #355465;
+  padding: 100px;
+  font-family: Georgia, serif;
+  font-size: 17px;
+  line-height: 27px;
+  width: 700px;
+  margin: auto;
+}
+
+h1#restaurant-name {
+  font-weight: normal;
+  letter-spacing: 1px;
+  color: #132630;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+
+h2#sub-title {
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 14px;
+  margin-bottom: 70px;
+  border-bottom: 0px;
+  font-style: normal;
+  text-align: left;
+  margin-top: 0px;
+  color: #a7b5bc;
+}
+
+p {
+  margin: 0px;
+}
+
+.dropcap {
+  font-size: 72px;
+  font-family: Georgia, serif;
+  color: #000;
+  float: left;
+  width: 100px;
+  margin-right: -20px;
+}
+
+img.big-image{
+  border: 10px solid #a7b5bc;
+  width: 680px;
+  margin-bottom: 30px;
+}
+
+.run-in {
+  font-size: 14px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #000;
+}
+
+.background-image {
+  background-image: url('images/menu-background.jpg');
+ }
+
+h4.menu-section {
+  width: 300px;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #a7b5bc;
+}
+
+a {
+  color: #612c2c;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #b23c3c;
+}
+
+h1 {
+  text-transform: uppercase;
+  padding-bottom: 20px;
+
+}
+
+h2 {
+  text-align: center;
+  font-weight: normal;
+  letter-spacing: 1px;
+  text-transform: none;
+  font-style: italic;
+  font-size: 22px;
+  color: #000;
+  border-bottom: 4px double #a7b5bc;
+  padding-bottom: 15px;
+  margin-bottom: 20px;
+}
+
+
+h3 {
+  text-align: center;
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #000;
+  border-bottom: 4px double #a7b5bc;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+h4 {
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 14px;
+  line-height: 20px;
+  color: #000;
+  margin-top: 25px;
+  margin-bottom: 0px;
+}
+
+#menu-background {
+  background-image: url("images/menu-background.jpg");
+  padding: 50px 100px;
+  margin: 30px 0px;
+}
+
+#menu {
+  background-color: #fff;
+  padding: 10px 40px;
+  font-size: 15px;
+  border: 10px solid #a7b5bc;
+}
+
+#address {
+  text-align: center;
+  font-size: 15px;
+  font-style: italic;
+  border-bottom: 4px double #a7b5bc;
+  padding-bottom: 8px;
+  margin-top: 10px;
+}
+
+#address-header {
+  border-top: 1px solid #b9afaf;
+  margin-top: 0px;
+  padding-top: 20px;
+}
+
+.description {
+  font-style: italic;
+  font-size: 15px;
+  color: #a7b5bc;
+  display: block;
+  line-height: 18px;
+}
+
+.ornament {
+  color: #901b2e;
+}
+
+.price {
+  color: #000;
+}
+
+
+
+ul{
+  list-style: none;
+  padding-left: 0px;
+  text-align: center;
+  line-height: 22px;
+  margin-bottom: 40px;
+  margin-top: 30px;
+}
+
+ul li{
+  margin-bottom:25px;
+}
+
+img{
+  max-width:100%;
+}
